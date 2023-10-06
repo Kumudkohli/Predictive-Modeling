@@ -1,4 +1,4 @@
-# Predictive-Modeling-
+# Predictive-Modeling
 This repository contains code for building a predictive model using Python and scikit-learn library. The model aims to predict whether a customer is a "great customer" based on various features.
 
 ## Prerequisites
@@ -23,7 +23,7 @@ Before running the script, ensure you have the following libraries installed:
 
 1. Clone this repository using the command:
   ```
-  git clone https://github.com/kumudkohli/Predictive-Modeling-.git
+  git clone https://github.com/kumudkohli/Predictive-Modeling.git
   ```
  
 2. Navigate to the repository directory:
